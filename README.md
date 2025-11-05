@@ -1,2 +1,3 @@
 # MageGame
 #python 
+Game story
